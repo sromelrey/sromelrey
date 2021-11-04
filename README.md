@@ -1,6 +1,6 @@
 ### Hi there.👋
-🔭 I’m currently working on JavaScript, ReactJS Projects \n
-📫 How to reach me: sromelrey@gmail.com
+### 🔭 I’m currently working on JavaScript, ReactJS Projects 
+### 📫 How to reach me: sromelrey@gmail.com
 
 <!--
 **sromelrey/sromelrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
