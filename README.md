@@ -1,5 +1,5 @@
 ### Hi there.👋
-### 🔭 I’m currently working on JavaScript, ReactJS Projects 
+### 🔭 I’m currently working on ReactJS Projects 
 ### 📫 How to reach me: sromelrey@gmail.com
 
 <!--
