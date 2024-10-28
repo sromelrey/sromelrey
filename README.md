@@ -40,6 +40,9 @@ Embracing adaptability as an ongoing journey.</i> 」
 <h2>Front End</h2>
 <div align="center">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="100" height="100" />
+<img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="100" height="100" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" />
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="100" height="100" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" />
