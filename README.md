@@ -3,6 +3,13 @@
         <samp>&gt; Hi, I'm Romel Rey Silva  ✌️ </samp>
 </h1>
 
+<h2 align="center">
+       I tell computers to do things.
+      Sometimes they listen. 
+</h2>
+
+
+
 
 <p align="center"> 
   <samp>
