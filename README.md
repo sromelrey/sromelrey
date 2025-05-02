@@ -67,9 +67,29 @@ Embracing adaptability as an ongoing journey.</i> 」
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="100" height="100" />
 </div>
 
-- Frontend
+# Front End
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,graphql,redux,tailwind,materialui,sass" />
+  </a>
+</p>
+
+# Back End
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nestjs,nodejs,jest,nextjs,graphql,cs" />
+  </a>
+</p>
+
+# Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sublime,postman,visualstudio,vscode,npm,notion,figma,git,github" />
+  </a>
+</p>
+# Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,redux,tailwind,materialui" />
   </a>
 </p>
