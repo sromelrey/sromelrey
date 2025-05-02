@@ -44,7 +44,7 @@ Embracing adaptability as an ongoing journey.</i> 」
 
 <!-- My Tech Stack -->
 # My Tech Stack
-<h2>Front End</h2>
+<!-- M<h2>Front End</h2>
 <div align="center">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" />
@@ -65,7 +65,7 @@ Embracing adaptability as an ongoing journey.</i> 」
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="100" height="100" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="100" height="100" />
-</div>
+</div> -->
 
 # Front End
 <p align="left">
@@ -87,6 +87,7 @@ Embracing adaptability as an ongoing journey.</i> 」
     <img src="https://skillicons.dev/icons?i=sublime,postman,visualstudio,vscode,npm,notion,figma,git,github" />
   </a>
 </p>
+
 # Databases
 <p align="left">
   <a href="https://skillicons.dev">
