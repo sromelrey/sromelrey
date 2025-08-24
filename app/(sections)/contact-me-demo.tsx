@@ -2,13 +2,11 @@
 
 import React, { useEffect, useRef, useState } from "react";
 import { Open_Sans } from "next/font/google";
-import emailjs from "@emailjs/browser";
 
 const open = Open_Sans({ subsets: ["latin"] });
 
-export default function ContactMe() {
+export default function ContactMeDemo() {
   const sectionRef = useRef<HTMLElement>(null);
-  const formRef = useRef<HTMLFormElement>(null);
   const [formData, setFormData] = useState({
     name: "",
     email: "",
@@ -46,7 +44,6 @@ export default function ContactMe() {
       ...formData,
       [e.target.name]: e.target.value,
     });
-    // Clear any previous status when user starts typing
     if (submitStatus.type) {
       setSubmitStatus({ type: null, message: "" });
     }
@@ -57,31 +54,28 @@ export default function ContactMe() {
     setIsSubmitting(true);
     setSubmitStatus({ type: null, message: "" });
 
-    try {
-      // Replace these with your actual EmailJS credentials
-      const result = await emailjs.sendForm(
-        "service_j8tcxk2", // Replace with your EmailJS service ID
-        "template_4ie6dyy", // Replace with your EmailJS template ID
-        formRef.current!,
-        "kevD4MZvjGXmYWful" // Replace with your EmailJS public key
-      );
+    // Simulate API call
+    await new Promise((resolve) => setTimeout(resolve, 2000));
 
-      if (result.status === 200) {
+    try {
+      // Demo: Simulate success 90% of the time
+      const isSuccess = Math.random() > 0.1;
+
+      if (isSuccess) {
         setSubmitStatus({
           type: "success",
-          message: "Thank you! Your message has been sent successfully.",
+          message:
+            "Thank you! Your message has been sent successfully. (Demo mode - no actual email sent)",
         });
-        // Reset form
         setFormData({ name: "", email: "", message: "" });
       } else {
-        throw new Error("Failed to send message");
+        throw new Error("Simulated error");
       }
     } catch (error) {
-      console.error("EmailJS Error:", error);
       setSubmitStatus({
         type: "error",
         message:
-          "Sorry, there was an error sending your message. Please try again or contact me directly.",
+          "Sorry, there was an error sending your message. Please try again. (Demo mode)",
       });
     } finally {
       setIsSubmitting(false);
@@ -167,13 +161,17 @@ export default function ContactMe() {
             style={{ animationDelay: "500ms" }}
           >
             <form
-              ref={formRef}
               onSubmit={handleSubmit}
               className='glass-effect rounded-2xl p-8 space-y-6'
             >
-              <h2 className='text-3xl font-bold text-white mb-6'>
-                Send a Message
-              </h2>
+              <div className='flex items-center justify-between mb-6'>
+                <h2 className='text-3xl font-bold text-white'>
+                  Send a Message
+                </h2>
+                <span className='text-xs bg-yellow-500/20 text-yellow-300 px-2 py-1 rounded'>
+                  DEMO MODE
+                </span>
+              </div>
 
               {/* Status Message */}
               {submitStatus.type && (
@@ -259,7 +257,7 @@ export default function ContactMe() {
                     <span>Sending...</span>
                   </>
                 ) : (
-                  "Send Message"
+                  "Send Message (Demo)"
                 )}
               </button>
             </form>
