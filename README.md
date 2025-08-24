@@ -3,6 +3,13 @@
         <samp>&gt; Hi, I'm Romel Rey Silva  ✌️ </samp>
 </h1>
 
+<h2 align="center">
+       I tell computers to do things.
+      Sometimes they listen. 
+</h2>
+
+
+
 
 <p align="center"> 
   <samp>
@@ -37,12 +44,15 @@ Embracing adaptability as an ongoing journey.</i> 」
 
 <!-- My Tech Stack -->
 # My Tech Stack
-<h2>Front End</h2>
+<!-- M<h2>Front End</h2>
 <div align="center">
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" />
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="100" height="100" />
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="100" height="100" />
   <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="100" height="100" />
   <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="100" height="100" />
 </div>
@@ -55,11 +65,32 @@ Embracing adaptability as an ongoing journey.</i> 」
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="100" height="100" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="100" height="100" />
-</div>
+</div> -->
 
-- Frontend
+# Front End
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,graphql,redux,tailwind,materialui,sass" />
+  </a>
+</p>
+
+# Back End
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nestjs,nodejs,jest,nextjs,graphql,cs" />
+  </a>
+</p>
+
+# Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=sublime,postman,visualstudio,vscode,npm,notion,figma,git,github" />
+  </a>
+</p>
+
+# Databases
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,redux,tailwind,materialui" />
   </a>
 </p>
