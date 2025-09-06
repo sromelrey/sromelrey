@@ -1,96 +1,103 @@
-<!-- Intro  -->
+<!-- Intro -->
 <h1 align="center">
-        <samp>&gt; Hi, I'm Romel Rey Silva  ✌️ </samp>
+  <samp>&gt; Hi, I'm Romel Rey Silva ✌️</samp>
 </h1>
 
 <h2 align="center">
-       I tell computers to do things.
-      Sometimes they listen. 
+  Fullstack Developer • JavaScript & React Specialist • Mentor
 </h2>
 
-
-
-
-<p align="center"> 
+<p align="center">
   <samp>
-    <a>「 Frontend Developer 」</a>
-    <br>
-    「 <i>Proficient in  <a>REACTJS</a> for more than 5 years, refining abilities across Front-End, Full-Stack, and Software Engineering domains. 
-Embracing adaptability as an ongoing journey.</i> 」
-    <br>
-    <br>
+    With 7+ years of experience building web apps and mentoring developers,  
+    I specialize in <b>React, Next.js, and modern JavaScript</b>.  
+    I’ve worked across Frontend, Backend, and Fullstack systems — from  
+    ERP platforms to modular SaaS apps — focusing on scalability, performance,  
+    and great developer experience.
   </samp>
 </p>
 
+---
+
+## 🌍 Connect With Me
+
 <p align="center">
- <a   target="blank">
-  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
+ <a href="https://your-portfolio-link.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="Portfolio" />
  </a>
- <a  target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ <a href="https://linkedin.com/in/your-link" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
  </a>
-
- <a   target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+ <a href="https://twitter.com/your-handle" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
  </a>
- <a   target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
- <a   target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
-  </a> 
+ <a href="https://instagram.com/your-handle" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+ </a>
+ <a href="https://facebook.com/your-handle" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"  />
+ </a>
 </p>
-<br />
 
-<!-- My Tech Stack -->
-# My Tech Stack
-<!-- M<h2>Front End</h2>
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="100" height="100" />
-</div>
-<h2>Back End</h2>
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="100" height="100" />
-</div> -->
+---
 
-# Front End
+## 💼 Portfolio & Projects
+
+Here are a few highlights from my work (ERP, SaaS, and custom apps):
+
+<p align="center">
+  <!-- Replace with real screenshots of your apps -->
+  <img src="https://via.placeholder.com/400x200.png?text=ERP+Dashboard" alt="ERP Dashboard" width="400"/>
+  <img src="https://via.placeholder.com/400x200.png?text=HRIS+System" alt="HRIS System" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://via.placeholder.com/400x200.png?text=Finance+Module" alt="Finance Module" width="400"/>
+  <img src="https://via.placeholder.com/400x200.png?text=Custom+Admin+Panel" alt="Custom Admin Panel" width="400"/>
+</p>
+
+---
+
+## 🛠️ My Tech Stack
+
+### Front End
+
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,graphql,redux,tailwind,materialui,sass" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,graphql,redux,tailwind,materialui,sass" />
 </p>
 
-# Back End
+### Back End
+
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,nestjs,nodejs,jest,nextjs,graphql,cs" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,js,nestjs,nodejs,jest,nextjs,graphql,cs" />
 </p>
 
-# Tools
+### Tools
+
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sublime,postman,visualstudio,vscode,npm,notion,figma,git,github" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,git,github,figma,notion,docker" />
 </p>
 
-# Databases
+### Databases
+
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase,redux,tailwind,materialui" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,firebase" />
 </p>
+
+---
+
+## 👨‍🏫 Mentorship & Growth
+
+I enjoy mentoring other developers — especially in **JavaScript and React** —  
+sharing best practices, reviewing code, and helping teams adopt scalable patterns.  
+I also document and refine **developer onboarding guides** to reduce time spent relearning.
+
+---
+
+## 🚀 Current Focus
+
+- Building modular **ERP/HRIS SaaS systems** with **Next.js + NestJS**
+- Improving developer experience with **monorepo architectures**
+- Creating personal resources like my **JavaScript & Fullstack Developer Quick Reference Guide**
+
+---
