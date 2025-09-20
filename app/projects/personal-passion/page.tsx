@@ -10,10 +10,18 @@ const personalProjects = [
     title: "AI Chat Assistant",
     description:
       "A conversational AI assistant built with natural language processing, featuring voice recognition and intelligent responses.",
-    image: "/blue_pill.png",
-    technologies: ["Python", "TensorFlow", "React", "WebRTC", "OpenAI API"],
-    liveUrl: "#",
-    githubUrl: "#",
+    image: "/images/personal-passion/task-mate-dashboard.png",
+    technologies: [
+      "JavaScript",
+      "Next.js",
+      "React",
+      "Tailwind CSS",
+      "Server Actions",
+      "PostgreSQL",
+      "Neon DB",
+    ],
+    liveUrl: "https://taskmate-two-beryl.vercel.app/",
+    githubUrl: "https://github.com/sromelrey/taskmate",
     featured: true,
   },
   {

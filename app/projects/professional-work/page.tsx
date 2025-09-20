@@ -10,7 +10,7 @@ const professionalProjects = [
     title: "Enterprise Dashboard",
     description:
       "A comprehensive analytics dashboard for enterprise clients, featuring real-time data visualization, user management, and advanced reporting capabilities.",
-    image: "/red_pill.png",
+    image: "/blue_pill.png",
     technologies: ["React", "TypeScript", "Node.js", "PostgreSQL", "D3.js"],
     liveUrl: "#",
     githubUrl: "#",
@@ -98,7 +98,7 @@ export default function ProfessionalWorkPage() {
 
         {/* Projects Grid */}
         <div
-          ref={sectionRef as React.RefObject<HTMLDivElement>}
+          ref={sectionRef}
           className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8'
         >
           {professionalProjects.map((project, index) => (
