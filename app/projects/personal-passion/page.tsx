@@ -25,13 +25,21 @@ const personalProjects = [
     featured: true,
   },
   {
-    title: "Game Development Engine",
+    title: "ChronoFlow - Pomodoro Timer",
     description:
-      "A 2D game engine built from scratch with physics simulation, sprite animation, and sound management.",
-    image: "/blue_pill.png",
-    technologies: ["C++", "OpenGL", "SDL2", "Box2D", "FMOD"],
-    liveUrl: "#",
-    githubUrl: "#",
+      "A modern, feature-rich Pomodoro timer application with productivity tracking, task management, and customizable settings. Built with Next.js 15 and TypeScript.",
+    image: "/images/personal-passion/chrono_flow.png",
+    technologies: [
+      "TypeScript",
+      "Next.js",
+      "React",
+      "Tailwind CSS",
+      "shadcn/ui",
+      "Web Audio API",
+      "next-themes",
+    ],
+    liveUrl: "https://chrono-flow-sigma.vercel.app/", // Replace with your deployed URL
+    githubUrl: "https://github.com/sromelrey/chrono-flow", // Replace with your GitHub repository URL
   },
   {
     title: "Blockchain Explorer",
