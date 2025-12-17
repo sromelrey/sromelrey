@@ -6,24 +6,24 @@ import Link from "next/link";
 import ProjectCard from "../../components/project-card";
 
 const personalProjects = [
-  {
-    title: "AI Chat Assistant",
-    description:
-      "A conversational AI assistant built with natural language processing, featuring voice recognition and intelligent responses.",
-    image: "/images/personal-passion/task-mate-dashboard.png",
-    technologies: [
-      "JavaScript",
-      "Next.js",
-      "React",
-      "Tailwind CSS",
-      "Server Actions",
-      "PostgreSQL",
-      "Neon DB",
-    ],
-    liveUrl: "https://taskmate-two-beryl.vercel.app/",
-    githubUrl: "https://github.com/sromelrey/taskmate",
-    featured: true,
-  },
+ {
+  title: "Task Master",
+  description:
+    "A modern task management application with real-time updates, featuring drag-and-drop functionality, subtask tracking, and time-based task scheduling with overlap prevention.",
+  image: "/images/personal-passion/task-master.gif",
+  technologies: [
+    "TypeScript",
+    "Next.js",
+    "React",
+    "Tailwind CSS",
+    "Redux Toolkit",
+    "Lucide Icons",
+    "Shadcn/ui",
+  ],
+  liveUrl: "https://task-master-two-delta.vercel.app/", // Update with your actual deployment URL
+  githubUrl: "https://github.com/sromelrey/task-master", // Update with your actual repo
+  featured: true,
+},
   {
     title: "ChronoFlow - Pomodoro Timer",
     description:
